@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "professionsmod:flour"
+    },
+    {
+      "item": "minecraft:water_bucket",
+      "item": "minecraft:potion"
+    }
+  ],
+  "result": {
+    "item": "professionsmod:sourdough"
+  }
+}

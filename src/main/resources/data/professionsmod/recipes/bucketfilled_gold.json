@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_nugget"
+    },
+    "B": {
+    	"item": "minecraft:flower_pot"
+    }
+  },
+  "result": {
+    "item": "professionsmod:bucketfilled_gold"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "III"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone"
+    },
+        "I": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "professionsmod:stoneanvil_block"
+  }
+}

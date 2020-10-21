@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "professionsmod:dough"
+  },
+  "result": "minecraft:bread",
+  "experience": 0.30,
+  "cookingtime": 600
+}

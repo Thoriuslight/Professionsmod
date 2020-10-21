@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+   	}
+  },
+  "result": {
+    "item": "professionsmod:woodenhopper_block"
+  }
+}

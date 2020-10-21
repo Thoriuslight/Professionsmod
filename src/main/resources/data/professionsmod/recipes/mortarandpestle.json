@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#G#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "G": {
+    	"item": "minecraft:granite"
+    }
+  },
+  "result": {
+    "item": "professionsmod:mortarandpestle"
+  }
+}

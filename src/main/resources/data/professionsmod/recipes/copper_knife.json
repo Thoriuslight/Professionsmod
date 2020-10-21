@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "I"
+  ],
+  "key": {
+    "#": {
+      "item": "professionsmod:copper_knifehead"
+    },
+        "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "professionsmod:copper_knife"
+  }
+}
