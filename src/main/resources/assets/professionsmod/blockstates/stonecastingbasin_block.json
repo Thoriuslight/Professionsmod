@@ -1,0 +1,6 @@
+{
+	"variants":{
+		"fill=false": { "model": "professionsmod:block/stonecastingbasin_block"},
+		"fill=true": { "model": "professionsmod:block/stonecastingbasin_block_filled"}
+	}
+}

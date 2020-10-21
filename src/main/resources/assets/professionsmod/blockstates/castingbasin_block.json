@@ -1,0 +1,6 @@
+{
+	"variants":{
+		"fill=false": { "model": "professionsmod:block/castingbasin_block"},
+		"fill=true": { "model": "professionsmod:block/castingbasin_block_filled"}
+	}
+}

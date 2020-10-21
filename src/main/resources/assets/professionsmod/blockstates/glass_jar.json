@@ -1,0 +1,14 @@
+{
+	"variants":{
+		"age=0": { "model": "professionsmod:block/glass_jar"},
+		"age=1": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=2": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=3": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=4": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=5": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=6": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=7": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=8": { "model": "professionsmod:block/glass_jar_filled"},
+		"age=9": { "model": "professionsmod:block/glass_jar_filled"}
+	}
+}
